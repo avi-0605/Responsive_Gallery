@@ -18,7 +18,7 @@ A beautiful and responsive image gallery showcasing breathtaking views from acro
 
 Experience the "Scenic India Gallery" live:
 
-[**Live Demo Link**](https://avi-0605.github.io/Responsive_Gallery/)
+[**Live link**](https://avi-0605.github.io/Responsive_Gallery/)
 
 ## 🛠️ Technologies Used
 
